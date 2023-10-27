@@ -1,4 +1,4 @@
-# TinyMCE
+﻿# TinyMCE
 
 The world's #1 open source rich text editor.
 
